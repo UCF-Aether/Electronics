@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "LoRa-E5")(type "KiCad")(uri "${KIPRJMOD}/footprints/LoRa-E5.pretty")(options "")(descr ""))
+)
