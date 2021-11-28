@@ -1,6 +1,18 @@
 # Electronics
 
-# To add libraries
+## To clone
+`git clone git@github.com:UCF-Aether/Electronics.git`
+OR
+`https://github.com/UCF-Aether/Electronics.git`
+
+Initialize submodules:
+`git submodule update --init --recursive`
+
+Pull changes from submodules:
+`git submodule update --recursive --remote`
+
+
+## To add libraries
 1. Create folder under `symbols/`
 2. Copy *.dcm and *.lib to new folder
 3. Copy *.pretty folder to `footprints/`
