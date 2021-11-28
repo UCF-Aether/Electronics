@@ -1,0 +1,3 @@
+[submodule "extern/digikey-library"]
+	path = extern/digikey-library
+	url = git@github.com:UCF-Aether/digikey-kicad-library.git
