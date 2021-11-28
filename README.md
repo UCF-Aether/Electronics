@@ -7,6 +7,9 @@ OR
 
 `https://github.com/UCF-Aether/Electronics.git`
 
+
+You don't have to do this if you're using the GitHub Desktop client.
+
 **Initialize submodules:**
 `git submodule update --init --recursive`
 
