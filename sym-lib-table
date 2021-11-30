@@ -150,4 +150,5 @@
   (lib (name "dk_Automotive-Relays")(type "KiCad")(uri "${KIPRJMOD}/extern/digikey-library/digikey-symbols/dk_Automotive-Relays.kicad_sym")(options "")(descr ""))
   (lib (name "dk_Alarms-Buzzers-and-Sirens")(type "KiCad")(uri "${KIPRJMOD}/extern/digikey-library/digikey-symbols/dk_Alarms-Buzzers-and-Sirens.kicad_sym")(options "")(descr ""))
   (lib (name "dk_Addressable-Specialty")(type "KiCad")(uri "${KIPRJMOD}/extern/digikey-library/digikey-symbols/dk_Addressable-Specialty.kicad_sym")(options "")(descr ""))
+  (lib (name "sensors")(type "KiCad")(uri "${KIPRJMOD}/symbols/Sensors/sensors.kicad_sym")(options "")(descr ""))
 )
