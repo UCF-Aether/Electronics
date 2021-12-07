@@ -152,6 +152,12 @@
     (path "/aa4dada7-46d2-42ad-95b1-f7beb9804087/4cdbbd08-f25f-4406-a918-d8b9a4289dab"
       (reference "#PWR035") (unit 1) (value "GND") (footprint "")
     )
+    (path "/e4202032-6d56-417f-82dc-e166ec7c9714/c89067c5-c06b-4ee5-aa65-3aa10f2af849"
+      (reference "5V(+)") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Keystone_5005-5009_Compact")
+    )
+    (path "/e4202032-6d56-417f-82dc-e166ec7c9714/85edde4e-c5f4-4d4c-9d1a-26d9cb181af1"
+      (reference "5V(-)") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Keystone_5005-5009_Compact")
+    )
     (path "/e4202032-6d56-417f-82dc-e166ec7c9714/00000000-0000-0000-0000-0000619adc91"
       (reference "10k1") (unit 1) (value "Thermistor") (footprint "")
     )
@@ -159,13 +165,13 @@
       (reference "AE1") (unit 1) (value "Antenna") (footprint "")
     )
     (path "/e4202032-6d56-417f-82dc-e166ec7c9714/9595e752-6a1f-41ee-8b26-091b24cd4aa3"
-      (reference "BATT_(+)1") (unit 1) (value "TestPoint") (footprint "")
+      (reference "BATT_(+)1") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Keystone_5005-5009_Compact")
     )
     (path "/e4202032-6d56-417f-82dc-e166ec7c9714/134a9f9f-9db9-4474-86a5-66ba97ba1971"
-      (reference "BATT_(-)1") (unit 1) (value "TestPoint") (footprint "")
+      (reference "BATT_(-)1") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Keystone_5005-5009_Compact")
     )
     (path "/aa4dada7-46d2-42ad-95b1-f7beb9804087/c3901065-706f-4feb-86ec-8ed3cd778653"
-      (reference "BME1") (unit 1) (value "Bosch") (footprint "Package_LGA:LGA-12_2x2mm_P0.5mm")
+      (reference "BME688") (unit 1) (value "Bosch") (footprint "Package_LGA:Bosch_LGA-8_3x3mm_P0.8mm_ClockwisePinNumbering")
     )
     (path "/e4202032-6d56-417f-82dc-e166ec7c9714/00000000-0000-0000-0000-00006194b666"
       (reference "Battery_Connect1") (unit 1) (value "JST_2_PIN_Connector") (footprint "")
@@ -237,10 +243,10 @@
       (reference "D5") (unit 1) (value "3.0V") (footprint "")
     )
     (path "/e4202032-6d56-417f-82dc-e166ec7c9714/afd36bae-fe1c-4e77-88a0-6f8240fb63d6"
-      (reference "DC_In_(+)1") (unit 1) (value "TestPoint") (footprint "")
+      (reference "DC_In_(+)1") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Keystone_5005-5009_Compact")
     )
     (path "/e4202032-6d56-417f-82dc-e166ec7c9714/12ef4f35-c1e7-4a81-be9b-307ec777cb62"
-      (reference "DC_In_(-)1") (unit 1) (value "TestPoint") (footprint "")
+      (reference "DC_In_(-)1") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Keystone_5005-5009_Compact")
     )
     (path "/e4202032-6d56-417f-82dc-e166ec7c9714/00000000-0000-0000-0000-000061948cc6"
       (reference "DC_Input1") (unit 1) (value "Solar Panel Jack Input") (footprint "")
@@ -267,7 +273,7 @@
       (reference "P1") (unit 1) (value "USB_C_Plug") (footprint "")
     )
     (path "/aa4dada7-46d2-42ad-95b1-f7beb9804087/3953c7cf-2065-4a7b-88d2-72d74ed76e83"
-      (reference "PMSensor1") (unit 1) (value "SPS30") (footprint "")
+      (reference "PMSensor1") (unit 1) (value "SPS30") (footprint "Connector_JST:JST_EH_B5B-EH-A_1x05_P2.50mm_Vertical")
     )
     (path "/e4202032-6d56-417f-82dc-e166ec7c9714/00000000-0000-0000-0000-0000619741f3"
       (reference "Power_On1") (unit 1) (value "Red") (footprint "")
@@ -279,7 +285,7 @@
       (reference "R2") (unit 1) (value "5.1k") (footprint "")
     )
     (path "/e4202032-6d56-417f-82dc-e166ec7c9714/00000000-0000-0000-0000-000061967ecc"
-      (reference "R3") (unit 1) (value "1k") (footprint "")
+      (reference "R3") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/e4202032-6d56-417f-82dc-e166ec7c9714/00000000-0000-0000-0000-000061965eae"
       (reference "R4") (unit 1) (value "1k") (footprint "")
@@ -360,10 +366,10 @@
       (reference "U4") (unit 1) (value "LTC3525-5") (footprint "Package_TO_SOT_SMD:SOT-363_SC-70-6")
     )
     (path "/aa4dada7-46d2-42ad-95b1-f7beb9804087/1226b629-2077-4c6f-b81e-43541103590f"
-      (reference "U5") (unit 1) (value "LoRa-E5") (footprint "")
+      (reference "U5") (unit 1) (value "LoRa-E5") (footprint "LoRa-E5:LoRa-E5")
     )
     (path "/aa4dada7-46d2-42ad-95b1-f7beb9804087/13f488d4-2086-4119-b10c-2d0ac25c05f7"
-      (reference "ZMOD1") (unit 1) (value "Renesas") (footprint "Package_LGA:LGA-12_2x2mm_P0.5mm")
+      (reference "ZMOD4510") (unit 1) (value "Renesas") (footprint "Package_LGA:LGA-12_2x2mm_P0.5mm")
     )
   )
 )
