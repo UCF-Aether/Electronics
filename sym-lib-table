@@ -151,5 +151,4 @@
   (lib (name "dk_Alarms-Buzzers-and-Sirens")(type "KiCad")(uri "${KIPRJMOD}/extern/digikey-library/digikey-symbols/dk_Alarms-Buzzers-and-Sirens.kicad_sym")(options "")(descr ""))
   (lib (name "dk_Addressable-Specialty")(type "KiCad")(uri "${KIPRJMOD}/extern/digikey-library/digikey-symbols/dk_Addressable-Specialty.kicad_sym")(options "")(descr ""))
   (lib (name "sensors")(type "KiCad")(uri "${KIPRJMOD}/symbols/Sensors/sensors.kicad_sym")(options "")(descr ""))
-  (lib (name "SRF2012-900YA")(type "Legacy")(uri "C:/Users/Ralva/Desktop/KiCad/SRF2012-900YA.lib")(options "")(descr ""))
 )
