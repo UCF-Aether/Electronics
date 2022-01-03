@@ -4258,7 +4258,7 @@
     (uuid ccbe96d6-6b58-44e8-b372-331302624467)
     (property "Reference" "J1" (id 0) (at 29.21 97.6335 0))
     (property "Value" "USB_C_Receptacle_USB2.0" (id 1) (at 29.21 100.4086 0))
-    (property "Footprint" "Connector_USB:USB_C_Receptacle_Amphenol_12401610E4-2A" (id 2) (at 33.02 119.38 0)
+    (property "Footprint" "Connector_USB:USB_C_Receptacle_XKB_U262-16XN-4BVC11" (id 2) (at 33.02 119.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip" (id 3) (at 33.02 119.38 0)

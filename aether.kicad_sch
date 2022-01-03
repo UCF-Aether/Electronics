@@ -192,7 +192,7 @@
       (reference "10k1") (unit 1) (value "Thermistor") (footprint "TerminalBlock:TerminalBlock_Altech_AK300-2_P5.00mm")
     )
     (path "/aa4dada7-46d2-42ad-95b1-f7beb9804087/6e6b0ac7-94f0-4011-b898-5535b1b3622a"
-      (reference "AE1") (unit 1) (value "Antenna") (footprint "Connector_Coaxial:SMA_Amphenol_132289_EdgeMount")
+      (reference "AE1") (unit 1) (value "Antenna") (footprint "Connector_Coaxial:SMA_Amphenol_132134_Vertical")
     )
     (path "/aa4dada7-46d2-42ad-95b1-f7beb9804087/c3901065-706f-4feb-86ec-8ed3cd778653"
       (reference "BME1") (unit 1) (value "Bosch") (footprint "Package_LGA:Bosch_LGA-8_3x3mm_P0.8mm_ClockwisePinNumbering")
@@ -300,7 +300,7 @@
       (reference "H4") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_2.2mm_M2_ISO14580_Pad_TopBottom")
     )
     (path "/e4202032-6d56-417f-82dc-e166ec7c9714/ccbe96d6-6b58-44e8-b372-331302624467"
-      (reference "J1") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "Connector_USB:USB_C_Receptacle_Amphenol_12401610E4-2A")
+      (reference "J1") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "Connector_USB:USB_C_Receptacle_XKB_U262-16XN-4BVC11")
     )
     (path "/aa4dada7-46d2-42ad-95b1-f7beb9804087/90e50f00-62b7-49f3-88a6-550f7045e90e"
       (reference "J2") (unit 1) (value "Conn_02x12_Top_Bottom") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x12_P2.54mm_Vertical")
