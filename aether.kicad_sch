@@ -155,10 +155,10 @@
     (path "/aa4dada7-46d2-42ad-95b1-f7beb9804087/066ad7af-82c9-4988-98f8-3a1816f2ca7c"
       (reference "#PWR036") (unit 1) (value "GND") (footprint "")
     )
-    (path "/aa4dada7-46d2-42ad-95b1-f7beb9804087/b59d9925-5a4d-4f09-af13-8f39fa3db9a7"
+    (path "/aa4dada7-46d2-42ad-95b1-f7beb9804087/9c5d54ee-f0b0-46b8-8015-35f21ff00d96"
       (reference "#PWR037") (unit 1) (value "GND") (footprint "")
     )
-    (path "/aa4dada7-46d2-42ad-95b1-f7beb9804087/9c5d54ee-f0b0-46b8-8015-35f21ff00d96"
+    (path "/aa4dada7-46d2-42ad-95b1-f7beb9804087/b59d9925-5a4d-4f09-af13-8f39fa3db9a7"
       (reference "#PWR038") (unit 1) (value "GND") (footprint "")
     )
     (path "/aa4dada7-46d2-42ad-95b1-f7beb9804087/2f001b12-33a5-493d-a999-4f89a8a5f427"
@@ -167,17 +167,14 @@
     (path "/aa4dada7-46d2-42ad-95b1-f7beb9804087/4f98a8ab-5e4f-48f5-a489-463426da6944"
       (reference "#PWR040") (unit 1) (value "GND") (footprint "")
     )
-    (path "/aa4dada7-46d2-42ad-95b1-f7beb9804087/3edb4418-ed8a-47bc-8621-88d393d238e5"
+    (path "/aa4dada7-46d2-42ad-95b1-f7beb9804087/2f754dee-2194-4045-8afa-e9077a296f34"
       (reference "#PWR041") (unit 1) (value "GND") (footprint "")
     )
-    (path "/aa4dada7-46d2-42ad-95b1-f7beb9804087/2f754dee-2194-4045-8afa-e9077a296f34"
+    (path "/aa4dada7-46d2-42ad-95b1-f7beb9804087/4cdbbd08-f25f-4406-a918-d8b9a4289dab"
       (reference "#PWR042") (unit 1) (value "GND") (footprint "")
     )
-    (path "/aa4dada7-46d2-42ad-95b1-f7beb9804087/4cdbbd08-f25f-4406-a918-d8b9a4289dab"
-      (reference "#PWR043") (unit 1) (value "GND") (footprint "")
-    )
     (path "/aa4dada7-46d2-42ad-95b1-f7beb9804087/1ba9ede4-294a-4102-b634-7ff09c709b77"
-      (reference "#PWR044") (unit 1) (value "GND") (footprint "")
+      (reference "#PWR043") (unit 1) (value "GND") (footprint "")
     )
     (path "/e4202032-6d56-417f-82dc-e166ec7c9714/27b0f4f5-9f80-4b03-9c66-fe17db370516"
       (reference "3.3V_Power1") (unit 1) (value "Red") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
@@ -302,8 +299,8 @@
     (path "/e4202032-6d56-417f-82dc-e166ec7c9714/ccbe96d6-6b58-44e8-b372-331302624467"
       (reference "J1") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "Connector_USB:USB_C_Receptacle_XKB_U262-16XN-4BVC11")
     )
-    (path "/aa4dada7-46d2-42ad-95b1-f7beb9804087/90e50f00-62b7-49f3-88a6-550f7045e90e"
-      (reference "J2") (unit 1) (value "Conn_02x12_Top_Bottom") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x12_P2.54mm_Vertical")
+    (path "/aa4dada7-46d2-42ad-95b1-f7beb9804087/d63b32b0-907f-42de-9478-0d4948991aa6"
+      (reference "J2") (unit 1) (value "Conn_01x05") (footprint "Connector_PinHeader_1.27mm:PinHeader_1x05_P1.27mm_Vertical")
     )
     (path "/e4202032-6d56-417f-82dc-e166ec7c9714/a1ea9bac-da28-4c8d-9200-5b8017981848"
       (reference "L1") (unit 1) (value "10uH") (footprint "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
