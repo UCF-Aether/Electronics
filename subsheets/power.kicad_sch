@@ -3989,9 +3989,9 @@
   )
 
   (symbol (lib_id "Connector:TestPoint_2Pole") (at 48.26 25.4 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board yes)
     (uuid 8132645d-a9ba-4070-bd6d-83d8fff80b3a)
-    (property "Reference" "DC_InputTest1" (id 0) (at 48.26 20.7985 0))
+    (property "Reference" "DC_Input2" (id 0) (at 48.26 21.59 0))
     (property "Value" "TestPoint" (id 1) (at 48.26 23.5736 0)
       (effects (font (size 1.27 1.27)) hide)
     )

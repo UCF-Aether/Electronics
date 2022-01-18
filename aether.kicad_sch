@@ -273,7 +273,7 @@
       (reference "DC_Input1") (unit 1) (value "Solar Panel Jack Input") (footprint "Connector_BarrelJack:BarrelJack_Horizontal")
     )
     (path "/e4202032-6d56-417f-82dc-e166ec7c9714/8132645d-a9ba-4070-bd6d-83d8fff80b3a"
-      (reference "DC_InputTest1") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm")
+      (reference "DC_Input2") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm")
     )
     (path "/e4202032-6d56-417f-82dc-e166ec7c9714/00000000-0000-0000-0000-000061973c15"
       (reference "Done1") (unit 1) (value "Green") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
