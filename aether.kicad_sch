@@ -176,6 +176,9 @@
     (path "/aa4dada7-46d2-42ad-95b1-f7beb9804087/1ba9ede4-294a-4102-b634-7ff09c709b77"
       (reference "#PWR043") (unit 1) (value "GND") (footprint "")
     )
+    (path "/aa4dada7-46d2-42ad-95b1-f7beb9804087/a5a8cf41-20f5-44c2-b420-4c415e031d8f"
+      (reference "#PWR0101") (unit 1) (value "GND") (footprint "")
+    )
     (path "/e4202032-6d56-417f-82dc-e166ec7c9714/27b0f4f5-9f80-4b03-9c66-fe17db370516"
       (reference "3.3V_Power1") (unit 1) (value "Red") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
     )
@@ -300,7 +303,7 @@
       (reference "J1") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "Connector_USB:USB_C_Receptacle_XKB_U262-16XN-4BVC11")
     )
     (path "/aa4dada7-46d2-42ad-95b1-f7beb9804087/d63b32b0-907f-42de-9478-0d4948991aa6"
-      (reference "J2") (unit 1) (value "Conn_01x05") (footprint "Connector_PinHeader_1.27mm:PinHeader_1x05_P1.27mm_Vertical")
+      (reference "J2") (unit 1) (value "Conn_01x05") (footprint "2X10_BOXHEADER")
     )
     (path "/e4202032-6d56-417f-82dc-e166ec7c9714/a1ea9bac-da28-4c8d-9200-5b8017981848"
       (reference "L1") (unit 1) (value "10uH") (footprint "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
