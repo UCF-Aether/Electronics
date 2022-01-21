@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name "LoRa-E5")(type "KiCad")(uri "${KIPRJMOD}/footprints/LoRa-E5.pretty")(options "")(descr ""))
   (lib (name "digikey-footprints")(type "KiCad")(uri "${KIPRJMOD}/extern/digikey-library/digikey-footprints.pretty")(options "")(descr ""))
+  (lib (name "Aether")(type "KiCad")(uri "${KIPRJMOD}/footprints/Aether.pretty")(options "")(descr ""))
 )
