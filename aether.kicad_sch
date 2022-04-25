@@ -92,9 +92,6 @@
     (path "/e4202032-6d56-417f-82dc-e166ec7c9714/8f59fe42-b86f-4b3d-9e47-e69a45aa6b15"
       (reference "#PWR015") (unit 1) (value "GND") (footprint "")
     )
-    (path "/e4202032-6d56-417f-82dc-e166ec7c9714/00000000-0000-0000-0000-00006198eb2f"
-      (reference "#PWR016") (unit 1) (value "GND") (footprint "")
-    )
     (path "/e4202032-6d56-417f-82dc-e166ec7c9714/3d96b198-0e5c-4d75-89b1-e2af2c8d740e"
       (reference "#PWR017") (unit 1) (value "VCC") (footprint "")
     )
@@ -175,6 +172,18 @@
     )
     (path "/aa4dada7-46d2-42ad-95b1-f7beb9804087/1ba9ede4-294a-4102-b634-7ff09c709b77"
       (reference "#PWR044") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/e4202032-6d56-417f-82dc-e166ec7c9714/5e5f6a8d-a911-4ee1-8032-20c6cfbb7448"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/e4202032-6d56-417f-82dc-e166ec7c9714/a6c62994-e20e-4309-bb56-8a36669ea510"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/e4202032-6d56-417f-82dc-e166ec7c9714/ab88f3e0-e707-48e0-91f8-7ac28f1ec265"
+      (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/e4202032-6d56-417f-82dc-e166ec7c9714/f317ca01-0a54-495b-aa93-71dff88d6856"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/e4202032-6d56-417f-82dc-e166ec7c9714/27b0f4f5-9f80-4b03-9c66-fe17db370516"
       (reference "3.3V_Power1") (unit 1) (value "Red") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
